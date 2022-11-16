@@ -6,6 +6,11 @@ Aryan Mehboudi, Shrawan Singhal, and S.V. Sreenivasan,
 ***"Squeeze flow of micro-droplets: convolutional neural network with trainable and tunable refinement"***, 
 arXiv 2022, [[Link]](...).
 
+
+- The package comes with a small dataset for test.
+
+- The **full dataset** can be accessed from [this external link](https://utexas.box.com/s/8yqpwvt5xph7fufmsk846xckwr9kyq17).
+
 _____________________________________
 
 ## Instructions
@@ -34,7 +39,7 @@ Windows:
 
 `python ./tutorial_load_dataset.py > out.txt`
 
-In this way, some of the log information will be written into the out file when loading the datasets.
+The log information will then be written into the out.txt file.
 
 <!--
 ### Hi there 👋
